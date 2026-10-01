@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fortcollinswaterheaterco.com/sitemap.xml
